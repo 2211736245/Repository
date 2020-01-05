@@ -1,0 +1,6 @@
+C:\Users\11441\Desktop\百元买百鸡\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\11441\Desktop\百元买百鸡\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\11441\Desktop\百元买百鸡\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\11441\Desktop\百元买百鸡\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\11441\Desktop\百元买百鸡\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\11441\Desktop\百元买百鸡\Demo\Demo\obj\Debug\Demo.pdb
